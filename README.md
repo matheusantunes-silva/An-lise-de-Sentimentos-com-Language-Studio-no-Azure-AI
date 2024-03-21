@@ -8,18 +8,16 @@ Para ser possível usar o Language Studio, é essencial que você possua um recu
 
 ### Acessar https://portal.azure.com
 Criar um novo recurso Language Service através da opção Create Resource.
-Create a resource
-Create a resource
 Esperar o deploy do recurso terminar.
-Selecionar recurso no Language Studio
+Selecionar recurso no Language Studio.
 Com o recurso Language Service criado, é preciso conecta-lo ao Language Studio. Para isso, basta seguir os seguintes passos:
 
 ### Acessar o Language Studio.
 Na página inicial, acessar os recursos criados através do botão "Select a resouce".
-View all resources
+View all resources.
 Preencha as informações e selecione o recurso recém criado.
-Set default resource
-Selecionando e testando o serviço no Language Studio
+Set default resource.
+Selecionando e testando o serviço no Language Studio.
 Ao retornar a página inicial após concluídos os passos anteriores, é possível ver a lista de serviços disponíveis para teste na plataforma. Nesse experimento foi usado o serviço "Analyze sentiment and mine opinions", na aba "Classify text".
 
 
